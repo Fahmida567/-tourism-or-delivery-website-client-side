@@ -9,5 +9,5 @@ The live Site [link](https://tourism-website-client-s-67896.web.app).
 * It also contain a login form
 * This is a tourist website.
 * I have used firebase for authentication and heroku to deploy.
-* I have used .
+
 
